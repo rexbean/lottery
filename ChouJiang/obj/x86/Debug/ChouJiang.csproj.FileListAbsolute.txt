@@ -1,0 +1,9 @@
+D:\inspiration\task5\ChouJiang\ChouJiang\bin\Debug\ChouJiang.exe
+D:\inspiration\task5\ChouJiang\ChouJiang\bin\Debug\ChouJiang.pdb
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Debug\ChouJiang.MainForm.resources
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Debug\ChouJiang.Properties.Resources.resources
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Debug\ChouJiang.exe
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Debug\ChouJiang.pdb

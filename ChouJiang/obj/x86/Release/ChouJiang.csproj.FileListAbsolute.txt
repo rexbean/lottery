@@ -1,0 +1,17 @@
+D:\inspiration\task5\ChouJiang\ChouJiang\bin\Release\ChouJiang.exe
+D:\inspiration\task5\ChouJiang\ChouJiang\bin\Release\ChouJiang.pdb
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Release\ResolveAssemblyReference.cache
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Release\ChouJiang.MainForm.resources
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Release\ChouJiang.Properties.Resources.resources
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Release\GenerateResource.read.1.tlog
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Release\GenerateResource.write.1.tlog
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Release\ChouJiang.exe
+D:\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Release\ChouJiang.pdb
+G:\备份数据\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Release\ChouJiang.exe
+G:\备份数据\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Release\ChouJiang.pdb
+G:\备份数据\inspiration\task5\ChouJiang\ChouJiang\bin\Release\ChouJiang.exe
+G:\备份数据\inspiration\task5\ChouJiang\ChouJiang\bin\Release\ChouJiang.pdb
+G:\备份数据\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Release\ChouJiang.csprojResolveAssemblyReference.cache
+G:\备份数据\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Release\ChouJiang.MainForm.resources
+G:\备份数据\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Release\ChouJiang.Properties.Resources.resources
+G:\备份数据\inspiration\task5\ChouJiang\ChouJiang\obj\x86\Release\ChouJiang.csproj.GenerateResource.Cache
